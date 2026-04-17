@@ -11,7 +11,7 @@
 
 <br>
 
-<center><a href="https://linkedin.com/in/jonathan-plona">My Linkedin</a> | [My Resume](/Jonathan Plona Resume.pdf) | <a href="mailto:jonathan.plona@uconn.edu">Contact Me</a></center>
+<center><a href="https://linkedin.com/in/jonathan-plona">My Linkedin</a> | [My Resume](main/Jonathan Plona Resume.pdf) | <a href="mailto:jonathan.plona@uconn.edu">Contact Me</a></center>
 
 <br>
 
