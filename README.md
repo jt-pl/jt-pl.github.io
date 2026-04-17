@@ -1,3 +1,4 @@
 # JT Plona
 <p align="center">Hello! My name is Jonathan Plona. I'm currently a student studying mechanical engineering at the University of Connecticut. I'm also in the Honors Program and am a recipient of the Stamps Scholarship - the university's most valuable scholarship. On a personal note, I am passionate about volunteerism, especially in the area of youth development. I am a proud Scouter and Eagle Scout, volunteering a lot of my time in Scouting America programs. I am also a fierce supporter of <i>FIRST</i>, which is a nonprofit that organizes robotics programming for students.</p>
+![t](/main/me wide shot lake house)
 <br><center><a href="https://linkedin.com/in/jonathan-plona">My Linkedin</a></center>
