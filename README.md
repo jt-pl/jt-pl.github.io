@@ -1,2 +1,2 @@
-# jt-pl.github.io
-site
+# JT Plona
+Welcome to my site!
