@@ -1,8 +1,5 @@
-<html>
-<head>
-  <title>Jonathan Plona</title>
-</head>
-<body>
+<title>Jonathan Plona</title>
+
 <center><div class="header">
   <h1>Jonathan Plona</h1>
 </div></center>
