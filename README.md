@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>Jonathan Plona</title>
-  <link rel="icon" type="image/png" href="https://github.com/user-attachments/assets/f5f2ffc8-3a45-4f17-9c30-7774f3fb7a5e">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
 </head>
 <body>
 
