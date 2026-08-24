@@ -3,7 +3,7 @@ h1  {font-family: calibri;
      max-width: 80%;
      text-align: center;
      margin: auto;
-     font-size: xx-large
+     font-size: 48px
     }
 p  {font-family: calibri;
       src: url("/css/calibri.ttf") format('truetype');
