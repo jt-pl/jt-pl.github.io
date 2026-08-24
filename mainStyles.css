@@ -1,15 +1,19 @@
 h1  {font-family: calibri;
        src: url("calibri.ttf") format('truetype');
+     max-width: 80%
     }
 p  {font-family: calibri;
       src: url("calibri.ttf") format('truetype');
+    max-width: 80%
     }
 center  {font-family: calibri;
           src: url("calibri.ttf") format('truetype');
+         max-width: 80%
         }
 note {font-family: calibri;
         src: url("calibri.ttf") format('truetype');
       font-size: 75%
+      max-width:80%
       }
 img  {max-width: 100%
       height: auto
