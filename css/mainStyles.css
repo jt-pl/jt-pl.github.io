@@ -1,26 +1,30 @@
-h1  {font-family: calibri;
-       src: url("/css/calibri.ttf") format('truetype');
+@font-face {
+    font-family: 'Calibri';
+    src: url('/css/Calibri.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+h1  {font-family: Calibri;
      max-width: 80%;
      text-align: center;
      margin: auto;
      font-size: 3em
     }
-p  {font-family: calibri;
-      src: url("/css/calibri.ttf") format('truetype');
+p  {font-family: Calibri;
     max-width: 80%;
     text-align: center;
     margin: auto;
     font-size: 1.75em
     }
-center  {font-family: calibri;
-          src: url("/css/calibri.ttf") format('truetype');
+center  {font-family: Calibri;
          max-width: 80%;
          text-align: center;
          margin: auto;
          font-size: 1.75em
         }
-note {font-family: calibri;
-        src: url("/css/calibri.ttf") format('truetype');
+note {font-family: Calibri;
       font-size: 75%
       max-width:80%
       text-align: center;
