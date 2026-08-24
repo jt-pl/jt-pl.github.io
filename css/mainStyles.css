@@ -1,23 +1,23 @@
 h1  {font-family: calibri;
-       src: url("/calibri.ttf") format('truetype');
+       src: url("/css/calibri.ttf") format('truetype');
      max-width: 80%;
      text-align: center;
      margin: auto;
     }
 p  {font-family: calibri;
-      src: url("/calibri.ttf") format('truetype');
+      src: url("/css/calibri.ttf") format('truetype');
     max-width: 80%;
     text-align: center;
     margin: auto;
     }
 center  {font-family: calibri;
-          src: url("/calibri.ttf") format('truetype');
+          src: url("/css/calibri.ttf") format('truetype');
          max-width: 80%;
          text-align: center;
          margin: auto;
         }
 note {font-family: calibri;
-        src: url("/calibri.ttf") format('truetype');
+        src: url("/css/calibri.ttf") format('truetype');
       font-size: 75%
       max-width:80%
       text-align: center;
