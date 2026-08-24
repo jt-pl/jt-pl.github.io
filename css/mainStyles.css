@@ -3,21 +3,21 @@ h1  {font-family: calibri;
      max-width: 80%;
      text-align: center;
      margin: auto;
-     font-size: 48px
+     font-size: 3em
     }
 p  {font-family: calibri;
       src: url("/css/calibri.ttf") format('truetype');
     max-width: 80%;
     text-align: center;
     margin: auto;
-    font-size: large
+    font-size: 1.75em
     }
 center  {font-family: calibri;
           src: url("/css/calibri.ttf") format('truetype');
          max-width: 80%;
          text-align: center;
          margin: auto;
-         font-size: large
+         font-size: 1.75em
         }
 note {font-family: calibri;
         src: url("/css/calibri.ttf") format('truetype');
@@ -25,7 +25,7 @@ note {font-family: calibri;
       max-width:80%
       text-align: center;
       margin: auto;
-      font-size: medium
+      font-size: 1.75em
       }
 img  {max-width: 100%
       height: auto
