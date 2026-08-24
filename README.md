@@ -17,4 +17,4 @@
 
 <br>
 
-<center><img width="354" height="472" alt="A headshot of JT Plona" src="https://github.com/user-attachments/assets/562d429b-7905-441b-b6a8-04c10da2fc0a" /></center>
+<center><img width="354" height="472" alt="A headshot of JT Plona" src="headshot lake.JPEG" /></center>
