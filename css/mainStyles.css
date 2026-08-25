@@ -1,32 +1,31 @@
 @font-face {
-    font-family: 'Outfit';
-    src: url('css/Outfit-Thin.woff2') format('woff2'),
-        url('css/Outfit-Thin.woff') format('woff');
+    font-family: 'Figtree';
+    src: url('css/Figtree-Black.woff2') format('woff2');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
 }
 
-h1  {font-family: Outfit;
+h1  {font-family: Figtree;
      max-width: 80%;
      text-align: center;
      margin: auto;
      font-size: 2em;
      font-style: bold;
     }
-p  {font-family: Outfit;
+p  {font-family: Figtree;
     max-width: 80%;
     text-align: center;
     margin: auto;
     font-size: 1.25em;
     }
-center  {font-family: Outfit;
+center  {font-family: Figtree;
          max-width: 80%;
          text-align: center;
          margin: auto;
          font-size: 1.25em;
         }
-note {font-family: Outfit;
+note {font-family: Figtree;
       font-size: 75%
       max-width:80%
       text-align: center;
