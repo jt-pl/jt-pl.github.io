@@ -1,32 +1,32 @@
 @font-face {
-    font-family: 'Calibri';
-    src: url('/css/Calibri.woff2') format('woff2'),
-        url('/css/Calibri.woff') format('woff');
-    font-weight: normal;
+    font-family: 'Outfit';
+    src: url('css/Outfit-Thin.woff2') format('woff2'),
+        url('css/Outfit-Thin.woff') format('woff');
+    font-weight: 100;
     font-style: normal;
     font-display: swap;
 }
 
-h1  {font-family: Calibri;
+h1  {font-family: Outfit;
      max-width: 80%;
      text-align: center;
      margin: auto;
      font-size: 2em;
      font-style: bold;
     }
-p  {font-family: Calibri;
+p  {font-family: Outfit;
     max-width: 80%;
     text-align: center;
     margin: auto;
     font-size: 1.25em;
     }
-center  {font-family: Calibri;
+center  {font-family: Outfit;
          max-width: 80%;
          text-align: center;
          margin: auto;
          font-size: 1.25em;
         }
-note {font-family: Calibri;
+note {font-family: Outfit;
       font-size: 75%
       max-width:80%
       text-align: center;
