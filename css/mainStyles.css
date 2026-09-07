@@ -6,6 +6,8 @@ h1  {font-family: Montserrat;
      margin: auto;
      font-size: 1.75em;
      font-style: bold;
+     padding-top: 25px;
+     padding-bottom: 25px;
     }
 p  {font-family: Montserrat;
     max-width: 80%;
