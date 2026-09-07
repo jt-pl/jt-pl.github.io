@@ -32,6 +32,29 @@ note {font-family: Figtree;
       margin: auto;
       font-size: 1em;
       }
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
 img  {max-width: 100%
       height: auto
     }
