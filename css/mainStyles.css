@@ -5,27 +5,28 @@
     font-style: normal;
     font-display: swap;
 }
+@import url(//fonts.googleapis.com/css?family=Montserrat);
 
-h1  {font-family: Figtree;
+h1  {font-family: Montserrat;
      max-width: 80%;
      text-align: center;
      margin: auto;
      font-size: 1.75em;
      font-style: bold;
     }
-p  {font-family: Figtree;
+p  {font-family: Montserrat;
     max-width: 80%;
     text-align: center;
     margin: auto;
     font-size: 1em;
     }
-center  {font-family: Figtree;
+center  {font-family: Montserrat;
          max-width: 80%;
          text-align: center;
          margin: auto;
          font-size: 1em;
         }
-note {font-family: Figtree;
+note {font-family: Montserrat;
       font-size: 75%
       max-width:80%
       text-align: center;
