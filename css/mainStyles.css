@@ -40,13 +40,13 @@ a:visited {
 }
 
 a:hover {
-  color: violet;
+  color: DodgerBlue;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: violet;
+  color: DodgerBlue;
   background-color: transparent;
   text-decoration: underline;
 }
