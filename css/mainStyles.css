@@ -38,37 +38,25 @@ note {font-family: Montserrat;
       font-size: 0.9em;
       }
 a:link {
-  color: light-dark(
-  blue,
-  DarkTurquoise
-);
+  color: light-dark(blue, DarkTurquoise);
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: light-dark(
-  	blue,
-  	DarkTurquoise
-	);
+  color: light-dark(blue, DarkTurquoise);
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: light-dark(
-	  DodgerBlue,
-	  LightSkyBlue
-	);
+  color: light-dark(DodgerBlue, LightSkyBlue);
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: light-dark(
-	  DodgerBlue,
-	  LightSkyBlue
-	);
+  color: light-dark(DodgerBlue,LightSkyBlue);
   background-color: transparent;
   text-decoration: underline;
 }
