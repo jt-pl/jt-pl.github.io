@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+body {
+	background-color: #ffffff;
+	color: #000000;
+
+	@media (prefers-color-scheme: dark) {
+		background-color: #000000;
+		color: #ffffff;
+	}
+}
+
 h1  {font-family: Montserrat;
      max-width: 80%;
      text-align: center;
